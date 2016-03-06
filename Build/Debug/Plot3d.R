@@ -1,6 +1,6 @@
 
 # init directory
-setwd("/Users/tom/Google Drive/2015-2016/Cours/Projet Mopsi/pièces jointes/Build/Debug")
+setwd(path)
 library("plotly")
 #read the table and adapt the type
 result.read <- function(filename){
