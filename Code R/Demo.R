@@ -1,4 +1,3 @@
-setwd("/Users/tom/Google Drive/Projet Mopsi/Code C++/Build/Debug")
 k <- 10
 lambda <- 4
 mu <- 8
