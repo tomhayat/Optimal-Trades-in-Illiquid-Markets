@@ -1,5 +1,3 @@
-# Set directories
-setwd("/Users/danconstantini/Downloads/Projet\ Mopsi/Data ")
 # Parameters
 lambda <- 4
 mu <- 8
