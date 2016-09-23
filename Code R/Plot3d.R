@@ -1,5 +1,4 @@
 # init directory
-#setwd("/Users/danconstantini/Documents/IMI/MOPSI/Projet/TP1/build/Debug")
 #read the table and adapt the type
 library("plotly")
 #read the table and adapt the type
