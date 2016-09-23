@@ -1,5 +1,4 @@
 Plot <- function(){
-  #setwd("/Users/tom/Downloads/TP1/Build/Debug")
   list.files()
   a <- result.read("asc.txt")
   v <- result.read("vsc.txt")
